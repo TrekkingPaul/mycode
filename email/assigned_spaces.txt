@@ -1,0 +1,9 @@
+Dunder Mifflin Parking Space Assignments
+Michael 01
+Angela  02
+Jim     03
+Dwight  04
+Pam     05
+Oscar   06
+Toby    07
+
